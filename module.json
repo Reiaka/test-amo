@@ -1,0 +1,30 @@
+{
+  "id": "test-amo",
+  "title": "test-amo",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Reiaka",
+      "discord": "reiaka",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "test-perso",
+      "label": "Test-perso",
+      "path": "packs/test-perso",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    }
+  ]
+}
