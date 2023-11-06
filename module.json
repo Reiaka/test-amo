@@ -27,5 +27,6 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/Reiaka/test-amo/master/module.json"
+  "manifest": "https://raw.githubusercontent.com/Reiaka/test-amo/master/module.json",
+  "download":"https://github.com/Reiaka/test-amo/archive/refs/tags/test-release.zip"
 }
