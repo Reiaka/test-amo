@@ -26,5 +26,6 @@
       "system": "starwarsffg",
       "flags": {}
     }
-  ]
+  ],
+  "manifest": "https://github.com/Reiaka/test-amo/master/module.json"
 }
